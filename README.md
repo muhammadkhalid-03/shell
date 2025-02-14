@@ -31,3 +31,7 @@ make
 ```
 ./mysh
 ```
+
+## Credit
+
+The authors of this were Muhammad Khalid and Garikai Gijima. It was a CSC-213 lab
